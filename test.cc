@@ -1,6 +1,6 @@
- test file to run multiplication of two variables X and Y
+ test file to run addition of two variables X and Y
  Values 
- X= 4
- Y= 8
+ X= 24
+ Y= 45
 Multiplication = X*Y
-Answer= 32
+Answer= 59
