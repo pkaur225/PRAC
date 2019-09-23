@@ -1,6 +1,5 @@
- test file to run multiplication of three variables X, Y and Z
+ test file to run multiplication of two variables X and Y
  Values 
  X= 4
  Y= 8
- Z = 10
- Multiplication = X*Y*Z
+ Multiplication = X*Y
