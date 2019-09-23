@@ -2,5 +2,5 @@
  Values 
  X= 24
  Y= 45
-Multiplication = X*Y
-Answer= 59
+Sum = X+Y
+Answer= 69
