@@ -1,4 +1,4 @@
- test file to run multiplication of three variables X, Y, Z and a
+ test file to run multiplication of four variables X, Y, Z and a
  Values 
  X= 4
  Y= 8
