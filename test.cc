@@ -2,7 +2,7 @@
  Values 
  X= 24
  Y= 2000
- z= 1000
+ Z= 20000
 Sum = X+Y+Z
-Answer= 3024
+Answer= 22024
 print "I am just doing this to learn the git branch command"
